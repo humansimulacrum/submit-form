@@ -1,0 +1,20 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "cSpell.language": "en,uk",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.eol": "\n"
+}
